@@ -1,0 +1,20 @@
+# Виртуальное пространство
+venv/
+
+#IDEs
+.idea
+.vscode
+.chroma
+
+# Python
+__pycache__
+.ipynb_checkpoints
+
+# OS configs
+.DS_Store
+
+# key
+.env
+
+#database
+./data/userbase.db
